@@ -1,7 +1,7 @@
 Project: Unit Testing of "shorten(text)" Function
 Tools: Python 3.11, pytest 8.3, pytest-cov
 Goal: Verify correctness and robustness of vowel-removal logic across normal, edge, and mixed input types.
-
+_________________________________________
 Summary:
 
 Total Tests: 18
@@ -9,12 +9,13 @@ Total Tests: 18
 Pass Rate: 100%
 
 Coverage: 100% (Function + Branch)
-
+_________________________________________
 Test Coverage:
 
 Total test cases: 18
 
 Pass rate: 100%
+_________________________________________
 
 Test Results:
 | ID     | Scenario                                      | Input                | Expected          | Actual           | Status | Duration |
