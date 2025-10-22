@@ -1,5 +1,7 @@
 Project: Unit Testing of "shorten(text)" Function
+
 Tools: Python 3.11, pytest 8.3, pytest-cov
+
 Goal: Verify correctness and robustness of vowel-removal logic across normal, edge, and mixed input types.
 _________________________________________
 Summary:
