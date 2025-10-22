@@ -1,8 +1,12 @@
-Project: Unit Testing of "value(greeting)" 
+Project: "Detection of Specific Word and/or Letter" 
 
-Function Tools: Python 3.11, pytest 8.3, pytest-cov 
+Project Completion Date: October 20,2025
 
-Goal: Verify correctness of this function, that takes in a string of user input and returns either "$0", "$20", or "$100" based on the specific word or specific letters in the given input.
+Project Test Date: October 20, 2025
+
+Tools: Python 3.11, pytest 8.3, pytest-cov 
+
+Goal: To validate the tip calculator function "value(greeting)" that bases the amount of the tip on the type of input received. 
 _________________________________________
 Summary: 
 
