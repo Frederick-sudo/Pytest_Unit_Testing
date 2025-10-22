@@ -1,4 +1,4 @@
-Project: "Detection of Specific Word and/or Letter" 
+Project: "Greeting-Based Tip Calculator" 
 
 Project Completion Date: October 20,2025
 
