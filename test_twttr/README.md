@@ -1,8 +1,12 @@
-Project: Unit Testing of "shorten(text)" Function
+Project: "Vowel Remover Program" 
 
-Tools: Python 3.11, pytest 8.3, pytest-cov
+Project Completion Date: October 18,2025
 
-Goal: Verify correctness and robustness of vowel-removal logic across normal, edge, and mixed input types.
+Project Test Date: October 18, 2025
+
+Tools: Python 3.11, pytest 8.3, pytest-cov 
+
+Goal: To validate the vowel remover function "shorten(text)"
 _________________________________________
 Summary:
 
