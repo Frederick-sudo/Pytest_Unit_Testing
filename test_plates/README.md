@@ -1,12 +1,12 @@
 Project: "Massachusetts Vanity Plate Validator" 
 
-Project Completion Date: October 20,2025
+Project Completion Date: October 21,2025
 
 Project Test Date: October 21, 2025
 
 Tools: Python 3.11, pytest 8.3, pytest-cov 
 
-Goal: To validate license plates as per the rules there which are: should be 2-6 characters, the first 2 characters should be alphabets, the first digit should not be 0, and when a digit starts all other characters that follow must be a digit.
+Goal: To test and validate the license plate checker function "is_valid(s)" as per the rules there which are: should be 2-6 characters, the first 2 characters should be alphabets, the first digit should not be 0, and when a digit starts all other characters that follow must be a digit.
 _________________________________________
 Summary: 
 
